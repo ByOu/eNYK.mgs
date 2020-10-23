@@ -1,0 +1,97 @@
+/**
+ * Black theme for reveal.js. This is the opposite of the 'white' theme.
+ *
+ * By Hakim El Hattab, http://hakim.se
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+@import url(./fonts/source-sans-pro/source-sans-pro.css);
+
+
+// Override theme settings (see ../template/settings.scss)
+$backgroundColor: #191919;
+
+$mainColor: #fff;
+$headingColor: #32a852;
+
+$mainFontSize: 42px;
+$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: uppercase;
+$headingFontWeight: 600;
+$linkColor: #32a852;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+// Change text colors against light slide backgrounds
+@include light-bg-text-color(#222);
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+@font-face
+{
+    font-family: 'Against';
+    src: url('./fonts/againts/againts.otf') format('opentype');
+}
+
+.reveal h1
+{
+    text-align: center;
+    font-family: Against;
+    font-size: 6em;
+    color: $mainColor;
+    -webkit-text-stroke: 0.01px black;
+}
+
+.reveal h1::first-letter
+{
+    font-size: 300%;
+    color: $headingColor;
+}
+
+.reveal h2
+{
+    text-align: left;
+    color: $mainColor;
+}
+
+.reveal h2::first-letter
+{
+    font-size: 300%;
+    font-family: Against;
+    color: $headingColor;
+}
+
+.reveal h3
+{
+    text-align: left;
+    color: $mainColor;
+}
+
+.reveal h3::first-letter
+{
+    font-family: Against;
+    color: $headingColor;
+}
+
+.reveal p
+{
+    text-align: left;
+}
