@@ -11,7 +11,7 @@ Concept
 
 Le but du concept est de réaliser un **jeu vidéo**, ou une partie, pendant le **ZEvent**.
 
-Dans l'ideal, les **objectifs**, game designs, arts pourraient être **participatifs**, via la participation de streamers ou communauté.
+Dans l'idéal, les **objectifs**, game designs, arts pourraient être **participatifs**, via la participation de streamers ou communauté.
 
 En résumé, une sorte de **Game Jam** mixée avec un **Kickstarter** live.
 
@@ -28,6 +28,7 @@ Si le genre du jeu permet le multijoueur, il serait plus prudent de privilégier
 beaucoup plus de support, sans réel choix facile (P2P vs Gameservers), donc difficilement supportable dans un court laps de temps.
 
 On pourrait envisager des **stretch goals** très élevés pour supporter le multijoueur, mais il faudra être vigilant afin de ne pas créer énormément de support une fois l'évènement terminé.
+
 Des propositions qui correspondraient à ces critères sont:
 
 * **Party** Games, mini game based
@@ -47,8 +48,9 @@ Exemples: Mario Party, Fall Guys.
 L'avantage de ce genre de jeu est la possibilité **d'étendre** le concept: ajouter de nouveaux **mini jeux**, personnages, skins, favorisant les dons/goals.
 Un autre plus est la génération de **hype** grâce à la possibilité de faire tester les prototypes par les **streamers**.
 
-L'inconvenient est qu'il nécessite une bonne **préparation** pour être à l'aise dans la réalisation des **objectifs**/stretch goals.
-Le plus sage est probablement de ne pas faire à 100% le jeu durant l'évènement, et bien préparer les **bases** en **amont**.
+L'inconvénient est qu'il nécessite une bonne **préparation** pour être à l'aise dans la réalisation des **objectifs**/stretch goals.
+
+Le plus sage est probablement de ne pas réaliser le jeu à 100% durant l'évènement et bien préparer les **bases** en **amont**.
 
 
 
@@ -59,7 +61,7 @@ Exemples: Towerfall, Overcooked, Worms
 
 ![Example](./images/worms.jpg "Worms")
 
-Si le **multi-joueur local** est choisit, ce concept est très ressemblant au précédent. La principale différence est l'expérience centrée sur **un seul
+Si le **multi-joueur local** est choisi, ce concept est très ressemblant au précédent. La principale différence est l'expérience centrée sur **un seul
 mode de jeu**.
 
 L'avantage est un scope plus **maitrisable**.
@@ -85,7 +87,7 @@ Le but serait de mettre le joueur à votre place (Zerator, Dach, influenceurs), 
 
 Organisation de l'endroit, sélection de l'association, gestion des streamers ainsi que de leur fatigue, commandes au Mcdo, des raids, management de la hype, dons, évènements aléatoires à gérer.
 
-Un bon travail de **préparation** dans la **conception** est nécessaire. Mais ce genre de jeu pourrait avoir une saveure et une implication particulière pour les joueurs. Un peu le jeu du **"j'y étais"** en quelque sorte.
+Un bon travail de **préparation** dans la **conception** est nécessaire. Mais ce genre de jeu pourrait avoir une saveur et une implication particulière pour les joueurs. Un peu le jeu du **"j'y étais"** en quelque sorte.
 
 
 
@@ -105,14 +107,14 @@ La **plateforme** visée devrait probablement être **PC**. En effet, les moyens
 
 Etant donné que l'audience du jeu est **grand public**, les joueurs ne seront probablement pas familier avec le format **"game jam"** et les attentes seront par conséquent **élevées** par rapport au **défis** de réaliser un jeu si vite.
 
-Un **travail préparatoire** avant l'évènement pourrait donc aider à dérisquer les sujets techniques et concept.
+Un **travail préparatoire** avant l'évènement pourrait donc aider à dérisquer les sujets techniques et concepts.
 
 
 
 Preparation
 ===========
 
-La **période** de préparation est à définir en fonction du projet choisit et de l'emploi du temps des membres. Il est probablement prudent de commencer **plusieurs mois** à l'avance afin d'être solidement préparé le jour de l'évènement.
+La **période** de préparation est à définir en fonction du projet choisi et de l'emploi du temps des membres. Il est probablement prudent de commencer **plusieurs mois** à l'avance afin d'être solidement préparé le jour de l'évènement.
 
 Cette préparation peut s'organiser de la manière suivante:
 
@@ -124,7 +126,10 @@ Recrutement de l'équipe
 Choix des technologies et outils
 --------------------------------
 
-L'objectif est de bien sélectionner l'ensemble des **outils** permettant de gagner du **temps** ainsi que se faire une expérience afin d'être à l'aise pendant l'évènement.
+L'objectif est de bien sélectionner l'ensemble des **outils** permettant de gagner du **temps**.
+
+Par la même occasion, se faire une expérience préliminaire afin d'être à l'aise pendant l'évènement.
+
 Il est important de privilégier la capacité **d'itération** et le **debug**.
 
 
@@ -137,9 +142,9 @@ Un **Toy** est un prototype contenant les principaux concepts du futur jeu.
 La réalisation d'un Toy **avant l'évènement** peut permettre à l'équipe de se familiariser avec les **concepts** du jeu, la **technologie** qu'ils montent, mais aussi à se heurter aux premiers problèmes non anticipés.
 
 Un autre but est la réduction de **dépendances**. Il est par exemple important qu'un minimum de technologie et **pipeline** soit mis en place pour que chaque personne de **l'équipe** puisse être **autonome**.
-Autrement dit, que tous le monde puisse avancer sans être en attente le jour de l'évènement.
+Autrement dit, que tout le monde puisse avancer sans être en attente le jour de l'évènement.
 
-Distribuer **l'ownership** des différentes fonctionnalités pendant la préparation peut aussi aider. Les premiers pas sont souvent les plus coûteux en terme de temps. Une fois qu'une personne est à l'aise dans son domaine, elle iterera beaucoup plus vite.
+Distribuer **l'ownership** des différentes fonctionnalités pendant la préparation peut aussi aider. Les premiers pas sont souvent les plus coûteux en termes de temps. Une fois qu'une personne est à l'aise dans son domaine, elle iterera beaucoup plus vite.
 
 
 Ajustement des objectifs
@@ -152,9 +157,9 @@ Une fois le Toy mis en place. L'équipe aura une meilleure idée de sa **capacit
 Communication
 =============
 
-Plusieurs **options** sont possible. Etant donné votre grande expérience dans le domaine, voici quelques propositions naïves, pouvant être remise en question.
+Plusieurs **options** sont possibles. Etant donné votre grande expérience dans le domaine, voici quelques propositions naïves, pouvant être remise en question.
 
-La première option est de **streamer** le développement. N'ayant pas de réelle expérience dans le streaming et au vu du défi, cette proposition parrait trop ambitieuse, malgré l'intêret.
+La première option est de **streamer** le développement. N'ayant pas de réelle expérience dans le streaming et au vu du défi, cette proposition parait trop ambitieuse, malgré l'intêret.
 
 L'avantage est le côté **éducatif**, montrant la conception d'un mini jeu au public. De même, cette proposition offre plus d'occasions **d'impliquer** les viewers qui seraient à même de proposer de bonnes idées.
 
@@ -177,7 +182,7 @@ Un axe important à définir est la **durée de vie** de la vente. Doit-on conti
 
 Un système de **store** ou d'achats **in app** paraît extrêmement ambitieux. De plus il sera difficile de récolter des dons via l'achat de **skins** par exemple, car ces dons dépendraient de la sortie du jeu (en dehors de l'évènement?).
 
-Le fait de laisser la possibilité aux **joueurs** de décider "à quel point ils **supportent** l'initiative", reste intéressante. Il faudra probablement creuser du côté de la mise en place de **DLC** ou différentes **version** du jeu.
+Le fait de laisser la possibilité aux **joueurs** de décider "à quel point ils **supportent** l'initiative", reste intéressante. Il faudra probablement creuser du côté de la mise en place de **DLC** ou différentes **versions** du jeu.
 
 
 
@@ -187,4 +192,4 @@ Contact
 ![Example](./images/heart.png "Heart")
 
 **Merci** d'être arrivé jusque ici! (et chay à moi sinon).
-Si vous êtes intérêssés: luc.eygasier@gmail.com (ou via Dach).
+Si vous êtes intéressés: luc.eygasier@gmail.com (ou via Dach).
