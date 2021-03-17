@@ -41,14 +41,34 @@ En effet si "transmettre la manette", est trop **coûteux**, on pourrait vouloir
 Happening
 ---------
 
+### Intro
+
+
+L'intro repose sur un **bait** à tirroir, "quand y'en a plus, y'en a encore".
+
+* Ecran de chargement classique
+* 1er bait: Vidéo **Jokair** live thème **MGS** 
+* Troll sur "finit les intro"
+* 2eme bait "non en fait c'est pas vrai petite intro de 3min montre en main de MGS  pour vous mettre dans l'ambiance"
+* 3eme bait **Codec remake**? eNYK Colonel (teeeeeeeeeeellement de dialogue); ByOu Snake (3répliques lol ez)?
+* Explication du format:
+  * Stream marathon MGS
+  * A deux
+  * Retry, piments
+  * Troll call boss
+
+
+
+### Sniper **Marie-Claude** Wolf
+
+
 Faire une pause apres le premier boss pour call le carrefour de Marie Claude et dire qu'on a perdu notre enfant "Nom du boss".
 Faire ca pour tous les boss. Hotel/Leboncoin Arnaqueur (reveiller un arnaqueur). Genre un checkpoint que le viewer va wait..
 Si viewer = 0, ne pas le faire ? 
 
-Début du codec, faire Colonel  / Snake 
 
-Retry
------
+### Retry
+
 
 Commencer avec 0 retry. 
 Les retry se gagnent : sub = +5 retry / don = +5 retry / piment = +5 / oeuf = +5 / 30 flexion-extension : +3 retry
@@ -71,15 +91,17 @@ Difficulté
 
 Le mode **Normal** est probablement le plus approprié.
 
+
+
 Langue
 ------
 
-Le jeu semble disponible seulement en **anglais**.
+La version **PS1 VF** du jeu a été retenue. (public français, moyen de donner les répliques, kitch)
 
 Retry/Gestion des alarmes
 -------------------------
 
-Afin de gagner du temps, il semble possible **d'abuser** du portage PC, c'est à dire **sauvegarder hors codec** souvent puis **charger en cas de fail**.
+Afin de gagner du temps, il semble possible **d'abuser** de la version émulée, c'est à dire **sauvegarder hors codec** souvent puis **charger en cas de fail**.
 Prévoir un counter de retry pour enrichir l'experience viewers.
 Limiter un maximum les retrys, (30 MAX).
 
@@ -106,13 +128,22 @@ Preparation
 Jouer à deux
 ------------
 
-Sauvegarde grâce au portage PC (== hors codec). **Partage de compte GOG**, pour la synchronisation de sauvegarde. Prévoir un délay de 2-3 mn le temps que le cloud se sync pour eviter les pbs ?
+Sauvegarde grâce à **l'émulateur PS1**. Partage de sauvegarde rapide via **Discord**.
 
 Streamer à deux
 ---------------
 
-A tester: https://obsproject.com/forum/resources/obs-studio-send-an-udp-stream-to-a-second-pc-using-obs.455/
-J'ai vu l'article hier mais c'est sur du réseau local only je crois ?
+https://obsproject.com/forum/resources/obs-studio-send-an-udp-stream-to-a-second-pc-using-obs.455/
+
+* Quand ByOu joue: ByOu -> eNYK -> Twitch <br>
+* Quand eNYK joue : eNYK -> Twitch (+ partage d'application Discord vers ByOu pour feedback)
+
+
+
+Settings:
+
+<img src="./images/settings.PNG" style="height:1000px;">
+
 
 <img src="./images/meryl.png" style="height:500px;margin-top:100px">
 
@@ -125,80 +156,85 @@ Communication
 Teasing strategy
 ----------------
 
--> P1 : Général et non détaillé au début de la com (presenter le live pour special subgoal) 
--> Détails sur le format en live le mercredi (OS un jeu, à 2, mélange de troll call à chaque fois swap controller, piment ON, "une video va inc pour faire deviner") 
--> P2 : Com écrit le lendemain (18/03), video pour deviner le jeu. Faire deviner l'invité aussi ? (offrir 1SUB premier trouve les 2).
--> Devoiler le format en live le 19/03, P3 sur sociaux suit le live (expliquer les happening, les retrys, le format)
--> P4
+* P1 : Général et non détaillé au début de la com (presenter le live pour special subgoal) 
+* Détails sur le format en live le mercredi (OS un jeu, à 2, mélange de troll call à chaque fois swap controller, piment ON, "une video va inc pour faire deviner") 
+* P2 : Com écrit le lendemain (18/03), video pour deviner le jeu. Faire deviner l'invité aussi ? (offrir 1SUB premier trouve les 2).
+* Devoiler le format en live le 19/03, P3 sur sociaux suit le live (expliquer les happening, les retrys, le format)
+* P4
+
+
 
 Twitter
 -------
 
-P1 
-Date: 15/03/2021
-Contenu: Planning de la semaine et COM semaine en post
+### P1
+* Date: 15/03/2021
+* Contenu: Planning de la semaine et COM semaine en post
 
-P2
-Date: 18/03/2021
-Contenu: Video de moi en story qui regarde catalogue de cul par terre, carton a côté qui bouge (*BRUIT "!") je souleve le carton ya moumoune dedans.. 
+### P2
+* Date: 18/03/2021
+* Contenu: Video de moi en story qui regarde catalogue de cul par terre, carton a côté qui bouge (*BRUIT "!") je souleve le carton ya moumoune dedans..
 
-P3
-Date: 19/03/2021
-Contenu : Post exclusif pour tease le format
+### P3
+* Date: 19/03/2021
+* Contenu : Post exclusif pour tease le format
 
-P4
-Date: Le matin du 20/03
-Contenu : "H-X Avant la perf" post
+### P4
+* Date: Le matin du 20/03
+* Contenu : "H-X Avant la perf" post
+
+
 
 Discord
 -------
 
-P1 
-Date: 15/03/2021
-Contenu: Planning de la semaine et COM semaine sur chan #Annonce
+### P1 
+* Date: 15/03/2021
+* Contenu: Planning de la semaine et COM semaine sur chan #Annonce
 
-P2
-Date: 18/03/2021
-Contenu: Video de moi qui regarde catalogue de cul par terre, carton a côté qui bouge (*BRUIT "!") je souleve le carton ya moumoune dedans.. 
+### P2
+* Date: 18/03/2021
+* Contenu: Video de moi qui regarde catalogue de cul par terre, carton a côté qui bouge (*BRUIT "!") je souleve le carton ya moumoune dedans.. 
 
-P3
-Date: 19/03/2021
-Contenu : Post exclusif pour tease le format
+### P3
+* Date: 19/03/2021
+* Contenu : Post exclusif pour tease le format
 
-P4
-Date: Le matin du 20/03
-Contenu : "H-X Avant la perf" post #annonce
+### P4
+* Date: Le matin du 20/03
+* Contenu : "H-X Avant la perf" post #annonce
 
 
 
 Instagram
 ---------
 
-P1 
-Date: 15/03/2021
-Contenu: Planning de la semaine et COM semaine en story
+### P1 
+* Date: 15/03/2021
+* Contenu: Planning de la semaine et COM semaine en story
  
 
-P2
-Date: 18/03/2021
-Contenu: Video de moi en story qui regarde catalogue de cul par terre, carton a côté qui bouge (*BRUIT "!") je souleve le carton ya moumoune dedans.. 
+### P2
+* Date: 18/03/2021
+* Contenu: Video de moi en story qui regarde catalogue de cul par terre, carton a côté qui bouge (*BRUIT "!") je souleve le carton ya moumoune dedans.. 
 
-P3
-Date: 19/03/2021
-Contenu: Story de rappel de l'event, classique ou video face
+### P3
+* Date: 19/03/2021
+* Contenu: Story de rappel de l'event, classique ou video face
 
-P4
-Date: Le matin du 20/03
-Contenu : "H-X Avant la perf" story
+### P4
+* Date: Le matin du 20/03
+* Contenu : "H-X Avant la perf" story
+* COSPLAY MGS EN POST INSTA ??
 
-COSPLAY MGS EN POST INSTA ??
+
 
 Tiktok
 ------
 
-P1 
-Date: 18/03/2021
-Contenu: Video de moi qui regarde catalogue de cul par terre, carton a côté qui bouge (*BRUIT "!") je souleve le carton ya moumoune dedans.. 
+### P1 
+* Date: 18/03/2021
+* Contenu: Video de moi qui regarde catalogue de cul par terre, carton a côté qui bouge (*BRUIT "!") je souleve le carton ya moumoune dedans.. 
 
 <img src="./images/mantis.png" style="height:500px;margin-top:100px">
 
